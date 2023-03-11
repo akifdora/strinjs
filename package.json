@@ -1,0 +1,15 @@
+{
+  "name": "strinjs",
+  "version": "1.0.1",
+  "description": "With the help of this package, you can easily perform many operations on strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strinjs"
+  ],
+  "author": "Akif DORA",
+  "license": "ISC",
+  "repository": "github:akifdora/strinjs"
+}
